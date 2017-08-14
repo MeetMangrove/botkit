@@ -1,6 +1,6 @@
 {
   "name": "mangrove-botkit",
-  "version": "0.5.7",
+  "version": "0.5.71",
   "description": "Building blocks for Building Bots",
   "main": "lib/Botkit.js",
   "dependencies": {
